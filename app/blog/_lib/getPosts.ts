@@ -1,1 +1,0 @@
-﻿// Blog helper functions here
