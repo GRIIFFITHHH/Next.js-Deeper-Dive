@@ -1,3 +1,4 @@
 export default function BlogPost({ params }) {
-  return <h1>Blog: {params.slug}</h1>;
+  const { slug } = params; // from URL
+  return <h1>Blog: {slug}</h1>;
 }
