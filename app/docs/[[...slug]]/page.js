@@ -1,4 +1,4 @@
-export default function Docs({ params }: { params?: { slug?: string[] } }) {
+export default function Docs({ params }) {
   return (
     <div>
       <h1>Docs</h1>

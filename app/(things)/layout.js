@@ -1,4 +1,4 @@
-﻿export default function ShopLayout({ children }: { children: React.ReactNode }) {
+﻿export default function ShopLayout({ children }) {
   return (
     <div>
       <h2>🛒 Shop Section</h2>

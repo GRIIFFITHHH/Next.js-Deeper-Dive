@@ -1,6 +1,6 @@
-﻿export default function RootLayout({ children }: { children: React.ReactNode }) {
+﻿export default function RootLayout({ children }) {
   return (
-    <html lang='en'>
+    <html lang="en">
       <body>
         <header>🌐 My Next.js App</header>
         <main>{children}</main>

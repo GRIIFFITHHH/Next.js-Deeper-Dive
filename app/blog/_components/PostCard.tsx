@@ -1,3 +1,0 @@
-﻿export default function PostCard({ title }: { title: string }) {
-  return <div className='post-card'>📝 {title}</div>;
-}
