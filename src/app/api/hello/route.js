@@ -2,17 +2,17 @@
   const posts = [
     {
       id: 1,
-      title: "My First Post",
+      title: "Created Api Routes",
       image: "https://www.maxfosterphotography.com/images/xl/Radiant-Swirl.jpg", // sample image
     },
     {
       id: 2,
-      title: "Learning Next.js",
+      title: "Learned a bit more of Next.js",
       image: "https://www.maxfosterphotography.com/images/xl/Radiant-Swirl.jpg",
     },
     {
       id: 3,
-      title: "Using API Routes",
+      title: "Organized my project better",
       image: "https://www.maxfosterphotography.com/images/xl/Radiant-Swirl.jpg",
     },
   ];
