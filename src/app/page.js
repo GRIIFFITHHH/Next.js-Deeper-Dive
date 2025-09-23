@@ -9,7 +9,10 @@
       <h2>Latest Posts:</h2>
       <ul>
         {posts.map((post) => (
-          <li key={post.id}>{post.title}</li>
+          <li key={post.id}>
+            <h3>{post.title}</h3>
+            <img src={post.image} alt={post.title} width={150} height={150} />
+          </li>
         ))}
       </ul>
     </div>
